@@ -11,7 +11,7 @@ class CuentaBancaria(): #creamos la clase Cuenta Bancaria, con sus atributos den
             "Nombre": self.nombre,
             "DNI": self.DNI,
             "IBAN": self.IBAN,
-             "Saldo": self.saldo
+            "Saldo": self.saldo
         }
         
     
